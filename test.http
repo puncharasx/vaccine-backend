@@ -2,7 +2,7 @@ POST http://localhost:4000/list
 content-type: application/json
 
 {
-    "id_card": "1209060046404",
+    "id_card": "1209061046404",
     "tell": "0613034686",
     "birth_day": "2038-01-19",
     "book_day" : "2038-01-19"
